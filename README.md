@@ -1,10 +1,11 @@
 # To replace Clutch pressure sensor 1 (K1) for error code P1735 
 
-1.Lift the car up, easiest if it stays on wheels
-1. Turn car on to accessoriesn put the car into N, turn car off
+1. Lift the car up, easiest if it stays on wheels
+1. Turn car on to accessories, put the car into N, turn car off (might not be needed)
 1. Remove Neutral from battery
 1. remove underbody plastic
 1. remove Air intake scoop (two screws)
+  1. yes, you really will want to do these steps, all all the intake stuff listed here is the absolute minimum required to get the mech out without damage
 1. remove Airbox lower half (two screws)
 1. remove Airbox filter/cover/screws
 1. remove mech cover bracket nuts for a few things
